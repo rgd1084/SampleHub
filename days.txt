@@ -1,3 +1,4 @@
 sunday
 tuesday
 wed
+thursday from branch1
